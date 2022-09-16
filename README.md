@@ -111,7 +111,7 @@ We went ahead and added a new file called `references.md` and pushed that change
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Merge your pull request</h2></summary>
 
 _Almost there! :heart:_
